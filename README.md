@@ -26,7 +26,13 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="856" height="213" alt="Screenshot 2025-12-27 133354" src="https://github.com/user-attachments/assets/90fbc63e-76f5-4c08-90c7-d9537858031c" />
+<img width="837" height="87" alt="Screenshot 2025-12-27 133407" src="https://github.com/user-attachments/assets/bb1ad5b4-be07-407c-a8e1-b55287cd5a27" />
+
+
 # Output:
+<img width="442" height="332" alt="Screenshot 2025-12-27 133417" src="https://github.com/user-attachments/assets/6692a8a4-72be-4c3b-8fa9-f57ad90bca32" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +63,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="865" height="362" alt="Screenshot 2025-12-27 133443" src="https://github.com/user-attachments/assets/c27c8670-fe97-42b9-9135-d20cafbdbec1" />
+
 # Output:
+<img width="498" height="336" alt="Screenshot 2025-12-27 133451" src="https://github.com/user-attachments/assets/6d142ffe-68a8-4e25-a530-be1934f1a8f6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,8 +91,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="854" height="425" alt="Screenshot 2025-12-27 133507" src="https://github.com/user-attachments/assets/cc43eb35-239e-4d54-8cc6-afa64e609f73" />
+
 # Output:
+<img width="532" height="350" alt="Screenshot 2025-12-27 133518" src="https://github.com/user-attachments/assets/3986fd6d-1e44-4288-9d6e-f2c654e75159" />
+
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
@@ -120,7 +135,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="859" height="644" alt="Screenshot 2025-12-27 133539" src="https://github.com/user-attachments/assets/59ff801e-5532-4074-b9ea-6fb014ee6366" />
+
 # Output:
+<img width="482" height="683" alt="Screenshot 2025-12-27 133550" src="https://github.com/user-attachments/assets/12932827-eea9-4288-ab69-6929fe31b60d" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -165,7 +184,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="868" height="289" alt="Screenshot 2025-12-27 133606" src="https://github.com/user-attachments/assets/4b12390f-e010-4d72-8321-f53cbfcf5312" />
+
 # Output:
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
