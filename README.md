@@ -26,7 +26,13 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="856" height="213" alt="image" src="https://github.com/user-attachments/assets/ee05fa4f-71fb-4c07-b66c-9197be093f72" />
+<img width="837" height="87" alt="image" src="https://github.com/user-attachments/assets/e1cc589c-0e90-4739-8f2b-ea2efddfb398" />
+
+
 # Output:
+<img width="442" height="332" alt="image" src="https://github.com/user-attachments/assets/544dcf9a-619b-4beb-b6ce-b8c2e35421ea" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +63,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="865" height="362" alt="image" src="https://github.com/user-attachments/assets/e96d3125-ee40-4733-a1f2-0a4ea1548df8" />
+
 # Output:
+<img width="498" height="336" alt="image" src="https://github.com/user-attachments/assets/0d494ff6-2cb4-4593-9bfb-5dfaf2bf7dc7" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,7 +91,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="854" height="425" alt="image" src="https://github.com/user-attachments/assets/2517e040-0178-4154-a5b6-e504124be10e" />
+
 # Output:
+<img width="532" height="350" alt="image" src="https://github.com/user-attachments/assets/931a065e-efd2-4684-b2da-817eeb2159f0" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -120,7 +134,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="859" height="644" alt="image" src="https://github.com/user-attachments/assets/d20b2df7-96cd-48ac-9664-1bdb8730d4fb" />
+
 # Output:
+<img width="482" height="683" alt="image" src="https://github.com/user-attachments/assets/fd1b467d-fc30-43ec-b39c-9afd93ccacf6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -165,7 +183,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="793" height="444" alt="{A82D7398-D0EB-4D28-852A-8A1665C1C832}" src="https://github.com/user-attachments/assets/2ea08a4b-bc72-4452-8875-3612ba50aa7b" />
+
 # Output:
+<img width="806" height="174" alt="{0C30AA7A-301D-42B7-B969-A28F0D2E7BF4}" src="https://github.com/user-attachments/assets/e66b20d9-27f3-4ebd-83ec-3a2910438e1e" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
